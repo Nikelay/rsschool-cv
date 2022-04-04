@@ -14,4 +14,4 @@
   * JavaScript https://learn.javascript.ru/
   * HTML, CSS https://www.codecademy.com
 ### Language
-  English level - 
+  English level - A2
